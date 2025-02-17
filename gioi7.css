@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.header{
+    background-color: rgb(91, 88, 88);
+    color: aliceblue ;
+    display: flex;
+    justify-content: space-around;
+}
+.main1{
+    background-color: rgb(194, 191, 191);
+    padding: 20px;
+
+}
+.footer{
+    text-align: center;
+    background-color: rgb(91, 88, 88);
+    color: aliceblue ;
+}
+.text{
+    display: flex;
+}
+.main2{
+    padding: 20px;
+    background-color: rgb(198, 195, 195);
+}

@@ -1,0 +1,27 @@
+.container{
+    display: grid;
+    gap:10px;
+    grid-template-columns: auto;
+    width: 50%;
+}
+.text1{
+    background-color: rgb(85, 180, 224);
+    grid-column: 1/ span 2;
+    padding: 10px;
+}
+.text2{
+    background-color: rgb(4, 198, 78);
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+}
+.text3 {
+    background-color: rgb(230, 35, 35);
+    width: 700px;
+    padding: 10px;
+}
+.text4{
+    background-color: rgb(191, 85, 224);
+    grid-column: 1/ span 2;
+    padding: 10px;
+}
